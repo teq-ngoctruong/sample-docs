@@ -11,3 +11,9 @@
 ```shell
 make docs/view
 ```
+
+## Build site
+
+```shell
+docker-compose run mkdocs build
+```
